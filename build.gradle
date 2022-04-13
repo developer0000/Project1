@@ -16,7 +16,7 @@ javafx {
 group 'org.example'
 version '1.0-SNAPSHOT'
 
-mainClassName = 'com.kodilla.kolkokrzyzyk.KolkoKrzyzyk'
+mainClassName = 'com.kodilla.kolkokrzyzyk.TicTacToe'
 
 repositories {
     mavenCentral()
