@@ -17,6 +17,7 @@ group 'org.example'
 version '1.0-SNAPSHOT'
 
 mainClassName = 'com.kodilla.kolkokrzyzyk.TicTacToe'
+//mainClassName = 'com.kodilla.kolkokrzyzyk.KolkoKrzyzyk'
 
 repositories {
     mavenCentral()

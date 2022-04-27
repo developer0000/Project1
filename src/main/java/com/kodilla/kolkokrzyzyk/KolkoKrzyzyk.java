@@ -20,10 +20,10 @@
 //
 //
 //
-//    private Image imageback = new Image("file:/resources/table1.png");
+//    private Image imageback = new Image("table1.png");
 //
 //    public static void main(String[] args) {
-//        //  launch(args);
+//          launch(args);
 //    }
 //
 //    @Override
